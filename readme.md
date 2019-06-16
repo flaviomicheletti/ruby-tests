@@ -18,3 +18,6 @@ Meus primeiros passos com Ruby!
 + http://rvm.io/rvm/install
 + https://www.ruby-lang.org/pt/documentation/installation/
 
+### Olha que shoooW!!
+Já vou aproveitar e usar esse repositório pra tentar criar uma mini API com ruby aueheauh
+
